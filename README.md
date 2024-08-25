@@ -1,11 +1,7 @@
 ## Hi there 👋
 
 <!--
-**mihailkin/mihailkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...тружусь над собой с переменным успехом правда с сыном лучше получается )))
+**mihailkin/mihailkin** is a ✨ _special_ ✨ repository because its `README.md` (this file)  ...тружусь над собой с переменным успехом правда с сыном лучше получается )))
 - 🌱 I’m currently learning ... Скорее наставника у сильными нервами 
 - 👯 I’m looking to collaborate on ...да божечки работы не боимся
 - 🤔 I’m looking for help with ... Да просто разобратся буду честен , а то 27 лет а разобратся не с нфт не с криптой не смог но яне здааюсь🔡
